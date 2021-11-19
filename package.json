@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "testcafe": "^1.17.1"
   }
 }
